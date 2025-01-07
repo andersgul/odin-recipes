@@ -1,7 +1,31 @@
-h1,
-h2,
-h3 {
+body {
+    background: #eee;
     font-family: Arial, Helvetica, sans-serif;
+}
+
+.frontpage-content {
+    width: 680px;
+    margin: 0 auto;
+}
+
+.frontpage-content .title {
+    text-align: center;
+    background-color: aliceblue;
+    padding: 8px 0px 8px 0px;
+    margin: 10px ppx;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    background-color: aliceblue;
+}
+
+li {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    padding: 8px;
+    margin: 0 auto;
 }
 
 h1 {
