@@ -1,0 +1,1 @@
+This is the first project in The Odin Project. It is a basic exercise in order to practice HTML, by creating a webpage with recipes.
